@@ -126,7 +126,11 @@ ul li{
 @media screen and (max-width: 600px) {
     .container {
         width: 350px;
-        height: 600px;
+        height: 700px;
+        gap: 20px;
 
+    }
+    ul li{
+        height: 60px;
     }
 }
